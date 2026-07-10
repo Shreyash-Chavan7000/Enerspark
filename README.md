@@ -2,4 +2,4 @@
 <br>
 This is my first git repository
 <br>
-Author - Shreyash Chavan
+Author - Shreyash Chavan (UI/UX Designer)
