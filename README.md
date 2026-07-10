@@ -1,3 +1,3 @@
 # Enerspark
 <br>
-This is my first git repositary
+This is my first git repository
